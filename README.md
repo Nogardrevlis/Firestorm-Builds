@@ -286,3 +286,5 @@ Updated AboutBuilds.txt
 16.04.2023
 - Cleaned up Build Directory 
 
+09.09.2023
+- Updated Fmod Version: FMOD Studio 2.02.17
