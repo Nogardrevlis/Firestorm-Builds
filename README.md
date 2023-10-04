@@ -288,3 +288,6 @@ Updated AboutBuilds.txt
 
 09.09.2023
 - Updated Fmod Version: FMOD Studio 2.02.17
+
+04.10.2023
+- Updated Fmod Version: FMOD Studio 2.02.18
