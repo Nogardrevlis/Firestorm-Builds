@@ -9,7 +9,7 @@ Private Firestorm Builds
 #                    *Primary Build PC*                         #
 #                                                               #
 #                 OS: Windows 10 Pro (x64)                      #
-#         Virtualisation: Vmware Workstation 16 Pro             #
+#         Virtualisation: Vmware Workstation 17 Pro             #
 #       Virtual Machine OS: Windows 10 Pro (X64)       		      #
 #                System Manufacturer: MSI                       #
 #     System Model: MSI MPG X570 GAMING EDGE WIFI (MS-7C37)     #
@@ -24,17 +24,19 @@ Private Firestorm Builds
 #                                                               #
 #################################################################
 #							                                                  #
-# -Microsoft Visual Studio 2017 Community Edition		            #
+# -Microsoft Visual Studio 2022 Community Edition		            #
 #							                                                  #
-# -Microsoft DirectX SDK (June 2010)		 	                      #
-#							                                                  #
+# - Microsoft Windows 10 SDK 10.0.22621.0		 	                      #
+#
+# -Microsoft DirectX SDK (June 2010)
+#
 # -Cmake 3.26.2					                                        #
 #							                                                  #
-# -Autobuild 3.2.5.dev3+g371da97  with Python 3 Support	      	#
+# -Autobuild 4.dev6  with Python 3 Support	      	#
 #							                                                  #
 # -Python 3.11.2					                                      #
 #							                                                  #
-# -Git Version 2.39.1					                                	#
+# -Git version 2.39.2					                                	#
 #							                                                	#
 # -cygwin		                                                   	#
 #                                                               #
@@ -291,3 +293,9 @@ Updated AboutBuilds.txt
 
 04.10.2023
 - Updated Fmod Version: FMOD Studio 2.02.18
+
+29.10.2023
+-  Updated VMware® Workstation 17 Pro 17.5.0 build-22583795
+-  Updated Compile Environment to Visual Studio Version to 2022 Community Edition
+-  Updated Autobuild to Autobuild 4.dev6  with Python 3 Support
+-  Updated Git to version 2.39.2
