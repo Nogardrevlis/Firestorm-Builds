@@ -16,7 +16,7 @@ Private Firestorm Builds
 #    CPU: AMD Ryzen 7 5800X 8-Core Processor 3.80 GHz		        #
 #                     Ram: 32GB DDR4 3600mhz                    #
 #             	Virtual Machine Ram: 4GB                        #
-#         	Graphic: Geforce RTX 2070		                        #
+#         	Graphic: Geforce RTX 3070		                        #
 #################################################################
 #################################################################
 #							                                                  #
@@ -30,13 +30,13 @@ Private Firestorm Builds
 #
 # -Microsoft DirectX SDK (June 2010)
 #
-# -Cmake 3.26.2					                                        #
+# -Cmake 3.28.1					                                        #
 #							                                                  #
 # -Autobuild 4.dev6  with Python 3 Support	      	#
 #							                                                  #
-# -Python 3.11.2					                                      #
+# -Python 3.12.1					                                      #
 #							                                                  #
-# -Git version 2.39.2					                                	#
+# -Git version 2.43.0					                                	#
 #							                                                	#
 # -cygwin		                                                   	#
 #                                                               #
@@ -299,3 +299,8 @@ Updated AboutBuilds.txt
 -  Updated Compile Environment to Visual Studio Version to 2022 Community Edition
 -  Updated Autobuild to Autobuild 4.dev6  with Python 3 Support
 -  Updated Git to version 2.39.2
+
+ 05.01.2024
+-   Updated Git to version 2.43.0
+-   Updated Cmake to version 3.28.1
+-   Updated Python to version 3.12.1
