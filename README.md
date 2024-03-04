@@ -1,55 +1,52 @@
-# Firestorm-Builds
-Private Firestorm Builds
-
 #################################################################
-#						                                                    #
-#                  Build Informations:		                      #
-#						                                                    #
+#						                #
+#                  Build Informations:		                #
+#						                #
 #################################################################
 #                    *Primary Build PC*                         #
 #                                                               #
 #                 OS: Windows 10 Pro (x64)                      #
 #         Virtualisation: Vmware Workstation 17 Pro             #
-#       Virtual Machine OS: Windows 10 Pro (X64)       		      #
+#       Virtual Machine OS: Windows 10 Pro (X64)       		#
 #                System Manufacturer: MSI                       #
 #     System Model: MSI MPG X570 GAMING EDGE WIFI (MS-7C37)     #
-#    CPU: AMD Ryzen 7 5800X 8-Core Processor 3.80 GHz		        #
+#    CPU: AMD Ryzen 7 5800X 8-Core Processor 3.80 GHz		#
 #                     Ram: 32GB DDR4 3600mhz                    #
-#             	Virtual Machine Ram: 4GB                        #
-#         	Graphic: Geforce RTX 3070		                        #
+#             	Virtual Machine Ram: 8GB                        #
+#         	Graphic: Geforce RTX 3070		        #
 #################################################################
 #################################################################
-#							                                                  #
-#	    Firestorm Viewer Builds Compiled with:	                	#
+#							        #
+#	    Firestorm Viewer Builds Compiled with:		#
 #                                                               #
 #################################################################
-#							                                                  #
-# -Microsoft Visual Studio 2022 Community Edition		            #
-#							                                                  #
-# - Microsoft Windows 10 SDK 10.0.22621.0		 	                      #
-#
-# -Microsoft DirectX SDK (June 2010)
-#
-# -Cmake 3.28.1					                                        #
-#							                                                  #
-# -Autobuild 4.dev6  with Python 3 Support	      	#
-#							                                                  #
-# -Python 3.12.1					                                      #
-#							                                                  #
-# -Git version 2.43.0					                                	#
-#							                                                	#
-# -cygwin		                                                   	#
+#							        #
+# -Microsoft Visual Studio 2022 Community Edition		#
+#								#
+# -Microsoft Windows 10 SDK 10.0.22621.0			#
+#							        #
+# -Microsoft DirectX SDK (June 2010)		 	        #
+#							        #
+# -Cmake 3.28.3					                #
+#							        #
+# -Autobuild 4.dev6  with Python 3 Support			#
+#							        #
+# -Python 3.12.1					        #
+#							        #
+# -Git version 2.43.0						#
+#								#
+# -cygwin		                                       	#
 #                                                               #
-# -Nulsoft Install System 3.08			                            #
-#							                                                  #
+# -Nulsoft Install System 3.08			        	#
+#							        #
 #################################################################
 
 #################################################################################
-#									    	                                                        #
+#									    	#
 #    Main Download Server 1: https://1drv.ms/f/s!AnQ_oIqDR87NkBe1llOxC-xHLfDH   #
 #    Backup Download Server 2: https://my.hidrive.com/share/lfqyyy5xxz          #
-#    Backup Download Server 3: https://keybase.pub/nogardrevlis		            	#
-#									    	                                                        #
+#    Backup Download Server 3: https://keybase.pub/nogardrevlis		    	#
+#									    	#
 #################################################################################
 -------------------------------------------------------------------------------------------------
 
@@ -286,7 +283,7 @@ Updated AboutBuilds.txt
 - Updated AutoBuild to autobuild 3.2.5.dev3+g371da97
 
 16.04.2023
-- Cleaned up Build Directory 
+- Cleaned up Build Directory
 
 09.09.2023
 - Updated Fmod Version: FMOD Studio 2.02.17
@@ -300,7 +297,11 @@ Updated AboutBuilds.txt
 -  Updated Autobuild to Autobuild 4.dev6  with Python 3 Support
 -  Updated Git to version 2.39.2
 
- 05.01.2024
--   Updated Git to version 2.43.0
--   Updated Cmake to version 3.28.1
--   Updated Python to version 3.12.1
+05.01.2024
+-  Updated Git to version 2.43.0
+-  Updated Cmake to version 3.28.1
+-  Updated Python to version 3.12.1
+
+20.02.2024
+-  Updated Cmake to version 3.28.3
+-  Installed Doxygen and Dependencys to remove Compiler Warnings about it.
