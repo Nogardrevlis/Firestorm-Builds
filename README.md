@@ -305,3 +305,10 @@ Updated AboutBuilds.txt
 20.02.2024
 -  Updated Cmake to version 3.28.3
 -  Installed Doxygen and Dependencys to remove Compiler Warnings about it.
+
+10.03.2024
+- Reflect Update VMware® Workstation 17 Pro 17.5.1 build-23298084  
+
+10.03.2024 ( Use At OWN Risk )
+- Addet Experimentel openjpeg Build ( opensource J2c Decoder ) that runs J2C-Decoderversion: OpenJPEG: 2.5.0, Runtime: 2.5.0 
+- Updated Runtime dll to J2C-Decoderversion: OpenJPEG: 2.5.0, Runtime: 2.5.2 from seperate Folder ( Replace old DLL in Firestorm Folder )
