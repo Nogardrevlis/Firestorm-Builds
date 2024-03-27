@@ -11,7 +11,7 @@
 #                System Manufacturer: MSI                       #
 #     System Model: MSI MPG X570 GAMING EDGE WIFI (MS-7C37)     #
 #    CPU: AMD Ryzen 7 5800X 8-Core Processor 3.80 GHz		#
-#                     Ram: 32GB DDR4 3600mhz                    #
+#                     Ram: 64GB DDR4 3600mhz                    #
 #             	Virtual Machine Ram: 8GB                        #
 #         	Graphic: Geforce RTX 3070		        #
 #################################################################
