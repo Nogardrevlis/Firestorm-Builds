@@ -312,3 +312,9 @@ Updated AboutBuilds.txt
 10.03.2024 ( Use At OWN Risk )
 - Addet Experimentel openjpeg Build ( opensource J2c Decoder ) that runs J2C-Decoderversion: OpenJPEG: 2.5.0, Runtime: 2.5.0 
 - Updated Runtime dll to J2C-Decoderversion: OpenJPEG: 2.5.0, Runtime: 2.5.2 from seperate Folder ( Replace old DLL in Firestorm Folder )
+
+- 21.03.2024
+- Updated RAM Configuration to 64GB DDR4 cl16
+
+25-03.2024
+- Updated Fmod Version: FMOD Studio 2.02.21
