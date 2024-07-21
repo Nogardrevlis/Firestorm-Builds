@@ -316,5 +316,8 @@ Updated AboutBuilds.txt
 21.03.2024
 - Updated RAM Configuration to 64GB DDR4 cl16
 
-25-03.2024
+25.03.2024
 - Updated Fmod Version: FMOD Studio 2.02.21
+
+09.07.2024
+- Reflect Update VMware® Workstation 17 Pro 17.5.2 build-23775571
