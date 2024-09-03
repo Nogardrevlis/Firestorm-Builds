@@ -321,3 +321,6 @@ Updated AboutBuilds.txt
 
 09.07.2024
 - Reflect Update VMware® Workstation 17 Pro 17.5.2 build-23775571
+
+03.09.2024
+- Update VMware® Workstation 17 Pro 17.6.0 build-24238078
