@@ -12,7 +12,7 @@
 #     System Model: MSI MPG X570 GAMING EDGE WIFI (MS-7C37)     #
 #    CPU: AMD Ryzen 7 5800X 8-Core Processor 3.80 GHz		#
 #                     Ram: 64GB DDR4 3600mhz                    #
-#             	Virtual Machine Ram: 8GB                        #
+#             	Virtual Machine Ram: 12GB                       #
 #         	Graphic: Geforce RTX 3070		        #
 #################################################################
 #################################################################
@@ -29,7 +29,7 @@
 #							        #
 # -Cmake 3.28.3					                #
 #							        #
-# -Autobuild 4.dev6  with Python 3 Support			#
+# -Autobuild 3.9.6  with Python 3 Support			#
 #							        #
 # -Python 3.12.1					        #
 #							        #
@@ -324,3 +324,7 @@ Updated AboutBuilds.txt
 
 03.09.2024
 - Update VMware® Workstation 17 Pro 17.6.0 build-24238078
+
+20.09.2024
+-Updated VM to 12GB Ram
+-Reflected Update Autobuild Version
