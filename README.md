@@ -328,3 +328,12 @@ Updated AboutBuilds.txt
 20.09.2024
 -Updated VM to 12GB Ram
 -Reflected Update Autobuild Version
+
+09.10.24
+- changed channel Formating to:
+
+x64_AVX = Firestorm-Private-Nogardrevlis-Lgpl-X64_LEGACY	
+x64_AVX2 = Firestorm-Private-Nogardrevlis-Lgpl-X64_AVX2
+
+11.11.2024
+- Downgraded to VMware® Workstation 17 Pro 17.5.2 build-23775571 because anoying Graphic Glitches in Virtual Maschines
