@@ -337,3 +337,6 @@ x64_AVX2 = Firestorm-Private-Nogardrevlis-Lgpl-X64_AVX2
 
 11.11.2024
 - Downgraded to VMware® Workstation 17 Pro 17.5.2 build-23775571 because anoying Graphic Glitches in Virtual Maschines
+
+06.01.2025
+- Updated Fmod Version: FMOD Studio 2.02.26
