@@ -10,7 +10,7 @@
 #       Virtual Machine OS: Windows 10 Pro (X64)       		#
 #                System Manufacturer: MSI                       #
 #     System Model: MSI MPG X570 GAMING EDGE WIFI (MS-7C37)     #
-#    CPU: AMD Ryzen 7 5800X 8-Core Processor 3.80 GHz		#
+#    CPU: AMD Ryzen 7 5700X3D 8-Core Processor 3.80 GHz		#
 #                     Ram: 64GB DDR4 3600mhz                    #
 #             	Virtual Machine Ram: 12GB                       #
 #         	Graphic: Geforce RTX 3070		        #
@@ -340,3 +340,6 @@ x64_AVX2 = Firestorm-Private-Nogardrevlis-Lgpl-X64_AVX2
 
 06.01.2025
 - Updated Fmod Version: FMOD Studio 2.02.26
+
+02.02.2025
+- Updated Computer Environment ( New System CPU: AMD Ryzen 7 5700X3D 8-Core Processor 3.00 GHz )
