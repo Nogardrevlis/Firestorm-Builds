@@ -8,5 +8,5 @@ If you download them, use @ own Risk.
 Diese Versionen sind unveröffentlichte private Builds, sie haben keine Unterstützung vom Phoenix Firestorm Team.
 Wenn du sie herunterlädst, benutzt du Sie auf eigene Gefahr.
 
-© 2023 Firestorm Viewer
+Copyright © 2025, Firestorm Viewer - The Phoenix Firestorm Project Inc.
 												            
