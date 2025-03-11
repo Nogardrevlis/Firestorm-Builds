@@ -343,3 +343,6 @@ x64_AVX2 = Firestorm-Private-Nogardrevlis-Lgpl-X64_AVX2
 
 02.02.2025
 - Updated Computer Environment ( New System CPU: AMD Ryzen 7 5700X3D 8-Core Processor 3.00 GHz )
+
+11.03.2025
+- Cleaned up Build Directory
