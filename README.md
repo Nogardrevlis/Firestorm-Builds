@@ -5,7 +5,7 @@
 #################################################################
 #                    *Primary Build PC*                         #
 #                                                               #
-#                 OS: Windows 10 Pro (x64)                      #
+#                 OS: Windows 11 Pro (x64)                      #
 #         Virtualisation: Vmware Workstation 17 Pro             #
 #       Virtual Machine OS: Windows 10 Pro (X64)       		#
 #                System Manufacturer: MSI                       #
