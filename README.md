@@ -352,3 +352,9 @@ x64_AVX2 = Firestorm-Private-Nogardrevlis-Lgpl-X64_AVX2
 
 29.06.2025
 - Updated Computer Environment ( New System GPU: MSI RTX 4070 Gaming Slim )
+
+09.10.2025
+-  Updated Python to version 3.14.0
+-  Updated Git to version 2.51.0.2
+-  Updated Autobuild to Autobuild 3.10.2.dev4 with Python 3 Support
+-  Builds now Compile Agains Microsoft Windows 10 SDK 10.0.26100.0
