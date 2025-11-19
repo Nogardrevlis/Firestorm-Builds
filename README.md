@@ -23,17 +23,17 @@
 #							        #
 # -Microsoft Visual Studio 2022 Community Edition		#
 #								#
-# -Microsoft Windows 10 SDK 10.0.22621.0			#
+# -Microsoft Windows 10 SDK 10.0.26100.0			#
 #							        #
 # -Microsoft DirectX SDK (June 2010)		 	        #
 #							        #
-# -Cmake 3.28.3					                #
+# -Cmake 4.2.0-rc4					                #
 #							        #
-# -Autobuild 3.9.6  with Python 3 Support			#
+# -Autobuild 3.10.2.dev5 with Python 3 Support			#
 #							        #
-# -Python 3.12.1					        #
+# -Python 3.14.0					        #
 #							        #
-# -Git version 2.43.0						#
+# -Git version 2.51.0.2						#
 #								#
 # -cygwin		                                       	#
 #                                                               #
@@ -358,3 +358,9 @@ x64_AVX2 = Firestorm-Private-Nogardrevlis-Lgpl-X64_AVX2
 -  Updated Git to version 2.51.0.2
 -  Updated Autobuild to Autobuild 3.10.2.dev4 with Python 3 Support
 -  Builds now Compile Agains Microsoft Windows 10 SDK 10.0.26100.0
+
+19.11.2025
+- Updated C make to 4.2.0-rc4 
+- Updated Autobuild to Autobuild 3.10.2.dev5 with Python 3 Support
+- Updated fs-build-variables to Latest Version
+- ( Workaround) LL Removed KDU 7 compatibility, Restored it with older LLKDU source to build agains KDU 7 again.
