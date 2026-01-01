@@ -364,3 +364,8 @@ x64_AVX2 = Firestorm-Private-Nogardrevlis-Lgpl-X64_AVX2
 - Updated Autobuild to Autobuild 3.10.2.dev5 with Python 3 Support
 - Updated fs-build-variables to Latest Version
 - ( Workaround) LL Removed KDU 7 compatibility, Restored it with older LLKDU source to build agains KDU 7 again.
+
+01.01.2026
+- Updated Fmod Version: FMOD Studio 2.03.11
+- Updated Channel Formating for a one of New Year Special Edition to: Private-Nogardrevlis-Lgpl-X64-NewYearEdition-2026
+- Updated Reflection older changes to Channel after this one of Special Edition to: Private-Nogardrevlis-Lgpl-X64
