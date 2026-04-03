@@ -45,7 +45,7 @@
 #									    	#
 #    Main Download Server 1: https://1drv.ms/f/s!AnQ_oIqDR87NkBe1llOxC-xHLfDH   #
 #    Backup Download Server 2: https://my.hidrive.com/share/lfqyyy5xxz          #
-#    Backup Download Server 3: https://keybase.pub/nogardrevlis		    	#
+#    Backup Download Server 3: Not Avaible		    	#
 #									    	#
 #################################################################################
 -------------------------------------------------------------------------------------------------
