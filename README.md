@@ -6,7 +6,7 @@
 #                    *Primary Build PC*                         #
 #                                                               #
 #                 OS: Windows 11 Pro (x64)                      #
-#         Virtualisation: VMware® Workstation Pro 25H2u1        #
+#         Virtualisation: VMware® Workstation Pro 26H1        #
 #       Virtual Machine OS: Windows 10 Pro (X64)       		#
 #                System Manufacturer: MSI                       #
 #     System Model: MSI MPG X570 GAMING EDGE WIFI (MS-7C37)     #
@@ -374,6 +374,8 @@ x64_AVX2 = Firestorm-Private-Nogardrevlis-Lgpl-X64_AVX2
 02.04.2026
 - Updated Fmod Version: FMOD Studio 2.03.13
 
- 12.04.2026
+12.04.2026
 - Updated to VMware® Workstation Pro 25H2u1 25.0.1.25219725
 
+28.06.2026
+- Reflected Update to VMware® Workstation Pro 26H1 26.0.0.25388281
