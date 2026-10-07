@@ -1,6 +1,6 @@
 #################################################################
 #						                #
-#                  Build Informations: Firestorm 7.2.5 (81344) Jul 20 2026	#
+#                  Build Informations: Firestorm 7.2.5 (81722) Sep 28 2026	#
 #						                #
 #################################################################
 #                    *Primary Build PC*                         #
@@ -45,7 +45,6 @@
 #									    	#
 #    Main Download Server 1: https://1drv.ms/f/s!AnQ_oIqDR87NkBe1llOxC-xHLfDH   #
 #    Backup Download Server 2: https://my.hidrive.com/share/lfqyyy5xxz          #
-#    Backup Download Server 3: Not Avaible		    	#
 #									    	#
 #################################################################################
 -------------------------------------------------------------------------------------------------
@@ -380,3 +379,7 @@ x64_AVX2 = Firestorm-Private-Nogardrevlis-Lgpl-X64_AVX2
 28.06.2026
 - Reflected Update to VMware® Workstation Pro 26H1 26.0.0.25388281
 - Updated Current Build Info
+
+07.10..2026
+- Removed Keybase Download since it was not public anymore and gets shutdown in December.
+-  Updated Current Build Version
